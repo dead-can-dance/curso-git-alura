@@ -2,3 +2,4 @@
 <h2> Primer ReadMe usando un Read me </h2>
 
 -Estado del proyecto: en construcción.
+-test para probar el comando pull
